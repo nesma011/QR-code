@@ -1,0 +1,24 @@
+section.qr
+{
+    background-image: url(../images/QR.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+}
+input{
+    top: 40%;
+    left: 10%;
+}
+
+.qrcode
+{
+    background-color: white;
+    height:250px;
+    width: 170px;
+    box-shadow: black 1px 4px 4px;
+    position: absolute;
+    top: 50%;
+    left: 45%;
+
+}
